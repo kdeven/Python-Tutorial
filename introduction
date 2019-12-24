@@ -1,0 +1,55 @@
+In the world of development, where technologies like AI, machine learning, automation, web development are taking over, the demand of 
+programmers and development professionals are increasing at the same rate. What if we had only one programming language which can feed
+these wide range of demand and much more? Wouldn’t it be great? Yes, the answer is Python. With its incredible rate of growth over the 
+years Python has become one of the most useful programming languages in 2018. With a very little exposure of computer programming and 
+some mathematics knowledge one’s ready to get on board with this simple yet powerful high-level programming.
+
+Check out this immersive Python tutorial:https://intellipaat.com/blog/tutorial/python-tutorial/
+ 
+Growth rate of Python along with other programming languages are displayed above(Source: Stack Overflow).  
+Simple and straight forward syntaxes make Python very user friendly. Where developers can focus on problem solving rather than syntax 
+errors solving. Let’s get started with our first Python program,” Hello World”. 
+Step1: Open Python Interactive Shell (editor)
+Step2: Type: Print (“Hello World”)
+Step3: Save the file (say, helloWorld.py)
+Step4: Execute it
+Python has various datatypes like,
+•	Numbers: Integers, floating point numbers and complex numbers; e.g.: a=2, b=2.0, c=1+2j belongs to Number datatypes.
+•	Lists: An ordered sequence of items; e.g.: a=[1,2,3,’Word’].
+•	Tuples: An ordered sequence of items like lists but immutable; e.g.: a=(1,2,4).
+•	Strings: A sequence of Unicode characters; e.g.: a=”New String”.
+•	Sets: An unordered collection of unique items. e.g.: a={2,3,4,5}) and 
+•	Dictionary: An unordered collection of Key-Value Pairs; e.g.: {‘a’: [1,2],’b’: [4,6]}, here a and b are Keys and [1,2] and [4,6] are 
+their respective values 
+Like other programming languages Python too has flow control methods such as,
+•	If-else
+•	For loop
+•	While loop
+•	Break and continue
+•	Pass
+Further to help our program break into smaller parts Python offers Functions, which make the program manageable and more organized. 
+Function argument, function recursion and anonymous function lambda are a few facilities that comes under this segment.
+Not to forget the File Operations which comes in handy while performing read/write operations with previously stored files. Here we use 
+Python built in function open() to open a file and specify modes such as read/writewith r,w, r+ etc.
+	e.g. >> fp=open(“filename.txt”, r), here file is opened to read only.
+Apart from its simplicity and flexibility one of the most useful features of Python is that it allows programmers to take different 
+programming approach.“Object Oriented Programming” tops the list. The idea behind solving a problem with OOP is that we create objects 
+based upon their attributes and behavior, with reusability. For example, Pen is an object. Its attributes would be color, weight,grip 
+and writing would be a behavior of Pen. 
+•	Inheritance
+•	Polymorphism and
+•	Encapsulation are three basic principles of OOP
+Here comes the concept of class and object. A class is called the “the blueprint” for the objects. Use of class and object are widely 
+used in Python OOP. Although unlike other programming languages(e.g.: Java), Python doesn’t force users to define classes. 
+This high level interpreted programming language is backed up by a large community of people who are continuously contributing towards 
+its growth. According to reports, they have uploaded more than 145,000 custom-built software packages to the online repository, covering
+everything from Game Development to Business Applications. Python has an extensive range of standard libraries contains built in modules
+that offers facilities such as file handing, standardized solution of problems faced by developers every day.
+Future aspects of python are very evident as the world today is dealing with rapid growth of data. Data science, data mining and Machine
+learning are a few terms related to processing and handling data.
+•	Pandas
+•	NumPy
+•	SciPy
+•	Matplotlib 
+These are a few examples Python libraries which helps in manipulation, analyze and visualize data.
+Thus, to conclude, with the rise of Data Science and Machine Learning,Python experienced a very high rate of growth in the last decade. 
