@@ -12,21 +12,22 @@ Step2: Type: Print (“Hello World”)
 Step3: Save the file (say, helloWorld.py)
 Step4: Execute it
 Python has various <a href="https://en.wikipedia.org/wiki/Data_type">datatypes</a> like,
-•	Numbers: Integers, floating point numbers and complex numbers; e.g.: a=2, b=2.0, c=1+2j belongs to Number datatypes.
-•	Lists: An ordered sequence of items; e.g.: a=[1,2,3,’Word’].
-•	Tuples: An ordered sequence of items like lists but immutable; e.g.: a=(1,2,4).
-•	Strings: A sequence of Unicode characters; e.g.: a=”New String”.
-•	Sets: An unordered collection of unique items. e.g.: a={2,3,4,5}) and 
-•	Dictionary: An unordered collection of Key-Value Pairs; e.g.: {‘a’: [1,2],’b’: [4,6]}, here a and b are Keys and [1,2] and [4,6] are 
+• Numbers: Integers, floating point numbers and complex numbers; e.g.: a=2, b=2.0, c=1+2j belongs to Number datatypes.
+• Lists: An ordered sequence of items; e.g.: a=[1,2,3,’Word’].
+• Tuples: An ordered sequence of items like lists but immutable; e.g.: a=(1,2,4).
+• Strings: A sequence of Unicode characters; e.g.: a=”New String”.
+• Sets: An unordered collection of unique items. e.g.: a={2,3,4,5}) and 
+• Dictionary: An unordered collection of Key-Value Pairs; e.g.: {‘a’: [1,2],’b’: [4,6]}, here a and b are Keys and [1,2] and [4,6] are 
 their respective values 
 Like other programming languages Python too has flow control methods such as,
-•	If-else
-•	For loop
-•	While loop
-•	Break and continue
-•	Pass
+• If-else
+• For loop
+• While loop
+• Break and continue
+• Pass
 Further to help our program break into smaller parts Python offers Functions, which make the program manageable and more organized. 
 Function argument, function recursion and anonymous function lambda are a few facilities that comes under this segment.
 Not to forget the File Operations which comes in handy while performing read/write operations with previously stored files. Here we use 
 Python built in function open() to open a file and specify modes such as read/writewith r,w, r+ etc.
 	e.g. >> fp=open(“filename.txt”, r), here file is opened to read only.
+You can also use concepts of python in other technologies like AI, ML, data science by enrolling in <a href="https://intellipaat.com/python-for-data-science-training/">python data science course online</a>.
