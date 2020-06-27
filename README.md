@@ -5,6 +5,8 @@ Step2: Type: Print (“Hello World”)
 Step3: Save the file (say, helloWorld.py)
 Step4: Execute it
 
+You can also use concepts of python in other technologies like AI, ML, data science by enrolling in <a href="https://intellipaat.com/python-for-data-science-training/">python data science course online</a>.
+
 Python has various <a href="https://en.wikipedia.org/wiki/Data_type">datatypes</a> like,
 • Numbers: Integers, floating point numbers and complex numbers; e.g.: a=2, b=2.0, c=1+2j belongs to Number datatypes.
 • Lists: An ordered sequence of items; e.g.: a=[1,2,3,’Word’].
@@ -22,4 +24,3 @@ Like other programming languages Python too has flow control methods such as,
 
 Further to help our program break into smaller parts Python offers Functions, which make the program manageable and more organized. Function argument, function recursion and anonymous function lambda are a few facilities that comes under this segment. Not to forget the File Operations which comes in handy while performing read/write operations with previously stored files. Here we use Python built in function open() to open a file and specify modes such as read/writewith r,w, r+ etc.
 	e.g. >> fp=open(“filename.txt”, r), here file is opened to read only.
-You can also use concepts of python in other technologies like AI, ML, data science by enrolling in <a href="https://intellipaat.com/python-for-data-science-training/">python data science course online</a>.
